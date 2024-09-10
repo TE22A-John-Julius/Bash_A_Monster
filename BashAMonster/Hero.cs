@@ -4,4 +4,5 @@ public class Heroes
     public int AttackDmg;
     public int Stamina;
     public int StaminaCost;
+    public int Hp;
 }
